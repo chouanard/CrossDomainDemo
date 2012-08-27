@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<head>
+    <title>Cross Domain POST Demo</title>
+    <link href="Content/Site.css" rel="stylesheet">
+</head>
+<body>
+    <div id="contactForm" >
+        <form id="contact-form">
+        <div class="control-group">
+            <label>Name:</label><br /><input type="text" name="name" id="name" class="forminput" placeholder="Your Name">
+        </div>
+        <div class="control-group">
+            <label>Email Address:</label><br /><input type="text" name="email" id="email" class="forminput"  placeholder="Your Email Address">
+        </div>
+        <div class="control-group">
+            <label>Tell Us About Your Project:</label><br /><input type="text" name="message" id="message" class="forminput" placeholder="Your Project or Media Needs">
+        </div>
+            <button type="button" id="submit">Send</button>
+            <button type="reset" id="cancel">Cancel</button>
+        </form>
+    </div>
+    <script type="text/javascript" src="Scripts/jquery-1.7.2.js"></script>
+    <script type="text/javascript" src="Scripts/jquery.validate.min.js"></script>
+    <script type="text/javascript" src="Scripts/processForm.js"></script>
+</body>
