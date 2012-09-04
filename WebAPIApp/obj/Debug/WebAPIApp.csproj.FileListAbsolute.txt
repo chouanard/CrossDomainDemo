@@ -59,6 +59,7 @@ C:\Users\us238331\Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIAp
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\Microsoft.Web.Infrastructure.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\Newtonsoft.Json.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Json.dll
+\\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.WebHost.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Web.Optimization.dll
@@ -67,9 +68,9 @@ C:\Users\us238331\Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIAp
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\EntityFramework.xml
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\Newtonsoft.Json.xml
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Json.xml
+\\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.xml
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.xml
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.WebHost.xml
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.Formatting.xml
-\\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.csprojResolveAssemblyReference.cache
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.pdb

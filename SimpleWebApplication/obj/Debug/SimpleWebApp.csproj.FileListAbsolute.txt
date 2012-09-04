@@ -20,4 +20,3 @@ C:\Users\us238331\Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWe
 \\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\bin\System.Web.Providers.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApplication.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApplication.pdb
-\\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApp.csprojResolveAssemblyReference.cache
