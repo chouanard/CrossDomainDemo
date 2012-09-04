@@ -20,3 +20,10 @@ C:\Users\us238331\Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWe
 \\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\bin\System.Web.Providers.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApplication.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApplication.pdb
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\bin\SimpleWebApplication.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\bin\SimpleWebApplication.pdb
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\bin\Microsoft.ScriptManager.jQuery.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\bin\Microsoft.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\bin\System.Web.Providers.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApplication.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\SimpleWebApplication\obj\Debug\SimpleWebApplication.pdb

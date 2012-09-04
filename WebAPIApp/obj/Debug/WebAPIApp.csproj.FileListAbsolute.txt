@@ -74,3 +74,24 @@ C:\Users\us238331\Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIAp
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.Formatting.xml
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.dll
 \\psf\Home\Documents\GitHub\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.pdb
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\WebAPIApp.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\WebAPIApp.pdb
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\EntityFramework.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\Newtonsoft.Json.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Json.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.WebHost.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Web.Optimization.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Web.Providers.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.Formatting.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\EntityFramework.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\Newtonsoft.Json.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Json.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Web.Http.WebHost.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\bin\System.Net.Http.Formatting.xml
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.dll
+C:\Users\us238331\AppData\Roaming\Local Libraries\Local Documents\Visual Studio 2012\Projects\CrossDomainDemo\WebAPIApp\obj\Debug\WebAPIApp.pdb
